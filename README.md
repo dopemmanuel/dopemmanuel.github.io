@@ -1,3 +1,3 @@
-# dopemmanuel.github.io
+# dopemmanuel.github.io (redirección)
 
-Raiz del sitio: redirige a [apuntes-lenguajes](https://dopemmanuel.github.io/apuntes-lenguajes/).
+Raiz del sitio: redirige a [apuntes-lenguajes](https://apuntes-dam.github.io/apuntes-lenguajes/).
